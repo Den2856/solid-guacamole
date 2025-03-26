@@ -405,7 +405,7 @@
     "displacement": 2.0,
     "drive": "AWD",
     "transmission": "a",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 23,
     "highway_mpg": 29,
     "combination_mpg": 25
@@ -448,7 +448,7 @@
     "displacement": 3.6,
     "drive": "FWD",
     "transmission": "a",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 18,
     "highway_mpg": 26,
     "combination_mpg": 21
@@ -476,7 +476,7 @@
     "displacement": 2.0,
     "drive": "FWD",
     "transmission": "a",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 22,
     "highway_mpg": 32,
     "combination_mpg": 26
@@ -576,7 +576,7 @@
     "displacement": 1.5,
     "drive": "FWD",
     "transmission": "a",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 29,
     "highway_mpg": 36,
     "combination_mpg": 32
@@ -618,7 +618,7 @@
     "displacement": 5.3,
     "drive": "4WD",
     "transmission": "a",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 15,
     "highway_mpg": 22,
     "combination_mpg": 18
@@ -774,7 +774,7 @@
     "displacement": 1.2,
     "drive": "FWD",
     "transmission": "a",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 29,
     "highway_mpg": 41,
     "combination_mpg": 33
@@ -987,7 +987,7 @@
     "displacement": 1.2,
     "drive": "FWD",
     "transmission": "m",
-    "fuelType": "fuel",
+    "fuelType": "gas",
     "city_mpg": 29,
     "highway_mpg": 41,
     "combination_mpg": 33
