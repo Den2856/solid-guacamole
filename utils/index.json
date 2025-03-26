@@ -419,7 +419,7 @@
     "displacement": 1.5,
     "drive": "AWD",
     "transmission": "a",
-    "fuelType": "hybrid",
+    "fuelType": "fuel",
     "city_mpg": 27,
     "highway_mpg": 33,
     "combination_mpg": 29
